@@ -15,5 +15,4 @@ About me
 - I like hanging out with my friends
 - I have been to 13 countries
 
-## Overview of Hacks, Study and Tangibles
 ![abtme]({{site.baseurl}}/images/abtme.jpg)
