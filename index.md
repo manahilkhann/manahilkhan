@@ -4,8 +4,7 @@ title: Manahil's Blog!
 ---
 
 
-## Manahil Khan
-About me
+## About Me
 - I lived in England for 7 years
 - I play lacrosse and golf
 - I was born in Pakistan
