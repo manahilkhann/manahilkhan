@@ -5,6 +5,8 @@ title: Manahil's Blog!
 
 
 ## About Me
+<span style= "color:#DE5D83">
+
 - I lived in England for 7 years
 - I play lacrosse and golf
 - I was born in Pakistan
