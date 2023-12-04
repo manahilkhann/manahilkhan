@@ -4,7 +4,6 @@ title: Manahil's Blog!
 ---
 
 
-## Manahil's CSSE Blog
 ## About Me
 <span style= "color:#DE5D83
 
