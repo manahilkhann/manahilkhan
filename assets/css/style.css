@@ -119,7 +119,7 @@ small { font-size: 11px; }
 
 hr { border: 0; background: #aaa; height: 1px; margin: 0 0 20px; }
 
-kbd { background-color: #fafbfc; border: 1px solid #eab4dc; border-bottom-color: #959da5; border-radius: 3px; box-shadow: inset 0 -1px 0 #959da5; color: #444d56; display: inline-block; font-size: 11px; line-height: 10px; padding: 3px 5px; vertical-align: middle; }
+kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color: #959da5; border-radius: 3px; box-shadow: inset 0 -1px 0 #959da5; color: #444d56; display: inline-block; font-size: 11px; line-height: 10px; padding: 3px 5px; vertical-align: middle; }
 
 footer { width: 640px; margin: 0 auto; padding: 20px 0 0; color: #ccc; overflow: hidden; }
 footer a { color: #fff; font-weight: bold; }
@@ -154,7 +154,7 @@ footer p + p { float: right; }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
-.calculator-clear { background-color: rgb(236, 150, 233), 161, 104); }
+.calculator-clear { background-color: #e68b1c; }
 
 /* styling for the calculator equals button */
-.calculator-equals { background-color: rgb(238, 151, 226), 165, 165); }
+.calculator-equals { background-color: #e70f0f; }
