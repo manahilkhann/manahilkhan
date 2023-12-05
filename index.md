@@ -4,7 +4,7 @@ title: Manahil's Blog!
 ---
 
 
-## About Me
+## Manahil's CSSE Blog
 
 
 - I lived in England for 7 years
