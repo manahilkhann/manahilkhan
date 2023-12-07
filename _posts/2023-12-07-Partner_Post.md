@@ -7,7 +7,7 @@ description: Activities to do with your friends!
 type: tangibles
 courses: { compsci: {week: 3} }
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -25,14 +25,30 @@ courses: { compsci: {week: 3} }
       <img src="https://www.halfmooninn.com/blog/wp-content/uploads/2022/07/BMIJulyBlogHeader2-960x430.jpg" class="d-block w-100" alt="Image 1">
       <div class="carousel-caption d-none d-md-block">
         <h5>Image 1</h5>
-        <p>Belmont Park.</p>
+        <p>Belmont Park is a fun amusement park by the beach that's local </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1c/7c/6a/del-mar-city-beach.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="Image 2">
       <div class="carousel-caption d-none d-md-block">
         <h5>Image 2</h5>
-        <p>Del Mar.</p>
+        <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the beach! </p>
+      </div>
+    </div>
+    <div id="imageCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://www.fabmood.com/wp-content/uploads/2023/05/summer-aesthetic-7-3.jpg" class="d-block w-100" alt="Image 3">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Image 3</h5>
+        <p>Baking serves as a fun activity and provides a great snack after! </p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkkWoBvTAKWo2m6PRYwFPuzBCyMgz0z6YC__OYNziz9RFJ0-KIOIm4epriO5SUDu4G30&usqp=CAU" class="d-block w-100" alt="Image 4">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Image 4</h5>
+        <p>Have a watch party! You can get together to watch the next episode of your favorite series or binge watch your favorite movie series</p>
       </div>
     </div>
     <!-- Add more carousel items as needed -->
