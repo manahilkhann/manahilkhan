@@ -1,9 +1,9 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Partner Post
 description: .
-type: tangibiles 
+type: tangibles
 courses: { compsci: {week: 3} }
---- 
+---
