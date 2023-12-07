@@ -34,23 +34,6 @@ courses: { compsci: {week: 3} }
         <h5>Image 2</h5>
         <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the beach! </p>
       </div>
-    </div>
-    <div id="imageCarousel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://www.fabmood.com/wp-content/uploads/2023/05/summer-aesthetic-7-3.jpg" class="d-block w-100" alt="Image 3">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Image 3</h5>
-        <p>Baking serves as a fun activity and provides a great snack after! </p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkkWoBvTAKWo2m6PRYwFPuzBCyMgz0z6YC__OYNziz9RFJ0-KIOIm4epriO5SUDu4G30&usqp=CAU" class="d-block w-100" alt="Image 4">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Image 4</h5>
-        <p>Have a watch party! You can get together to watch the next episode of your favorite series or binge watch your favorite movie series</p>
-      </div>
-    </div>
     <!-- Add more carousel items as needed -->
   </div>
   <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">
