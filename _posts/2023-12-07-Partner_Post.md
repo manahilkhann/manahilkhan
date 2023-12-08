@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Partner Post
-description: Activities to do with your friends!
+description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company!
 type: tangibles
 courses: { compsci: {week: 3} }
 ---
@@ -25,14 +25,14 @@ courses: { compsci: {week: 3} }
       <img src="https://www.halfmooninn.com/blog/wp-content/uploads/2022/07/BMIJulyBlogHeader2-960x430.jpg" class="d-block w-100" alt="Image 1">
       <div class="carousel-caption d-none d-md-block">
         <h5>Image 1</h5>
-        <p>Belmont Park is a fun amusement park by the beach that's local </p>
+        <p>Belmont Park is a fun amusement park right by the beach that's local </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1c/7c/6a/del-mar-city-beach.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="Image 2">
       <div class="carousel-caption d-none d-md-block">
         <h5>Image 2</h5>
-        <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the beach! </p>
+        <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the sand! </p>
       </div>
     <!-- Add more carousel items as needed -->
   </div>
@@ -47,5 +47,3 @@ courses: { compsci: {week: 3} }
 </div>
 
 
-</body>
-</html>
