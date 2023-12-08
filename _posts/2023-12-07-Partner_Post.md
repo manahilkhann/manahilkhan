@@ -24,7 +24,7 @@ courses: { compsci: {week: 3} }
     <div class="carousel-item active">
       <img src="https://www.halfmooninn.com/blog/wp-content/uploads/2022/07/BMIJulyBlogHeader2-960x430.jpg" class="d-block w-100" alt="Belmont Park">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Belmont Park</h5>
+        <h5><span style="background-color: white;">Belmont Park</span></h5>
         <p>Belmont Park is a fun amusement park right by the beach that's local </p>
       </div>
     </div>
