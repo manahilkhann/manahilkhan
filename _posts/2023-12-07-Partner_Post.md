@@ -54,3 +54,8 @@ courses: { compsci: {week: 3} }
 </div>
 
 
+<style>
+    .post header > ul {
+        display: none
+    }
+</style>
