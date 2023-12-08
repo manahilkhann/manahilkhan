@@ -25,21 +25,21 @@ courses: { compsci: {week: 3} }
       <img src="https://www.halfmooninn.com/blog/wp-content/uploads/2022/07/BMIJulyBlogHeader2-960x430.jpg" class="d-block w-100" alt="Belmont Park">
       <div class="carousel-caption d-none d-md-block">
         <h5><span style="background-color: #ffebfd; font-family: Playfair Display">Belmont Park</span></h5>
-        <p><span style="background-color: ##8f5a8a; font-family: Playfair Display">Belmont Park is a fun amusement park right by the beach that's local </p>
+        <p>Belmont Park is a fun amusement park right by the beach that's local </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/1c/7c/6a/del-mar-city-beach.jpg?w=1200&h=-1&s=1" class="d-block w-100" alt="Del Mar Beach-Seagrove Park">
       <div class="carousel-caption d-none d-md-block">
         <h5><span style="background-color: #ffebfd; font-family: Playfair Display">Del Mar's Seagrove Park</span></h5>
-        <p><span style="background-color: #8f5a8a; font-family: Playfair Display">Del Mar beach is super fun to go to, and my favorite part is this park right above the sand! </p>
+        <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the sand! </p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="https://i.pinimg.com/564x/8d/87/85/8d87852684c4cdea5f79052ebf656cc7.jpg" class="d-block w-100" alt="Movie Theater">
       <div class="carousel-caption d-none d-md-block">
         <h5><span style="background-color: #ffebfd; font-family: Playfair Display">Movie Theater</span></h5>
-        <p><span style="background-color: #8f5a8a; font-family: Playfair Display">Visit your nearest movie theater and enjoy some movies and popcorn! </p>
+        <p>Visit your nearest movie theater and enjoy some movies and popcorn! </p>
       </div>
     <!-- Add more carousel items as needed -->
   </div>
