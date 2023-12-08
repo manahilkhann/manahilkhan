@@ -34,6 +34,13 @@ courses: { compsci: {week: 3} }
         <h5>Image 2</h5>
         <p>Del Mar beach is super fun to go to, and my favorite part is this park right above the sand! </p>
       </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://i.pinimg.com/564x/8d/87/85/8d87852684c4cdea5f79052ebf656cc7.jpg" class="d-block w-100" alt="Image 3">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Image 3</h5>
+        <p>Visit your nearest move theater and enjoy some movies and popcorn! </p>
+      </div>
     <!-- Add more carousel items as needed -->
   </div>
   <a class="carousel-control-prev" href="#imageCarousel" role="button" data-slide="prev">
