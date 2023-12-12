@@ -3,7 +3,9 @@ toc: true
 comments: true
 layout: post
 title: Partner Post
-description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company! </p>
+description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company! 
+<span style= "font 22px;">
+<font face="Georgia">
 type: tangibles
 courses: { compsci: {week: 3} }
 ---
