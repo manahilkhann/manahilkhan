@@ -5,7 +5,7 @@ layout: post
 title: Partner Post
 description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company! 
 type: hacks
-courses: { compsci: {week: 3} }
+courses: { compsci: {week: 2} }
 ---
 
 <html lang="en">
