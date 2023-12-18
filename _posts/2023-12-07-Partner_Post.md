@@ -3,9 +3,9 @@ toc: true
 comments: true
 layout: post
 title: Partner Post
-description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company! </p>
-type: tangibles
-courses: { compsci: {week: 3} }
+description: Here are some fun places to go to with your friends, family, or even just to enjoy your own company! 
+type: hacks
+courses: { compsci: {week: 2} }
 ---
 
 <html lang="en">
