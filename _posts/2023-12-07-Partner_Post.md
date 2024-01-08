@@ -36,7 +36,7 @@ courses: { compsci: {week: 2} }
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://i.pinimg.com/564x/8d/87/85/8d87852684c4cdea5f79052ebf656cc7.jpg" class="d-block w-100" alt="Movie Theater">
+      <img src="https://wallpapers.com/images/hd/aesthetic-movie-theater-photo-wo30du5ihb20qdu5.jpg" class="d-block w-100" alt="Movie Theater">
       <div class="carousel-caption d-none d-md-block">
         <h5><span style="background-color: #ffebfd; font-family: Playfair Display">Movie Theater</span></h5>
         <p>Visit your nearest movie theater and enjoy some movies and popcorn! </p>
