@@ -139,7 +139,7 @@ footer p + p { float: right; }
 .button, .calculator-number, .calculator-operation, .calculator-clear, .calculator-equals { width: auto; height: auto; border-radius: 10px; background-color: #abbcc7; border: 3px solid black; font-size: 1.5em; display: flex; justify-content: center; align-items: center; grid-column: span 1; grid-row: span 1; transition: all 0.5s; }
 
 /* darkens the background color on hover to create a selecting effect */
-.button:hover, .calculator-number:hover, .calculator-operation:hover, .calculator-clear:hover, .calculator-equals:hover { background-color: #373737; }
+.button:hover, .calculator-number:hover, .calculator-operation:hover, .calculator-clear:hover, .calculator-equals:hover { background-color: rgb(213, 131, 233)))); }
 
 /* "row style" is flexible size and aligns pictures in center */
 .row { align-items: center; display: flex; }
@@ -157,7 +157,7 @@ footer p + p { float: right; }
 .calculator-clear { background-color: rgb(138, 85, 242)) }
 
 /* styling for the calculator equals button */
-.calculator-equals { background-color: #6a2ddc; }
+.calculator-equals { background-color: #996fe7; }
 
 
 
