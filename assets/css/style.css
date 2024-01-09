@@ -93,9 +93,9 @@ h1, h2, h3 { line-height: 1.1; }
 
 h1 { font-size: 28px; }
 
-h2 { color: #393939; }
+h2 { color: #f2caff; }
 
-h3, h4, h5, h6 { color: #494949; }
+h3, h4, h5, h6 { color: #f2caff; }
 
 blockquote { margin: 0 -20px 20px; padding: 15px 20px 1px 40px; font-style: italic; background: #ccc; background: rgba(0, 0, 0, 0.06); color: #222; }
 
@@ -154,10 +154,10 @@ footer p + p { float: right; }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
-.calculator-clear { background-color: #e68b1c; }
+.calculator-clear { background-color: rgb(138, 85, 242)) }
 
 /* styling for the calculator equals button */
-.calculator-equals { background-color: #e70f0f; }
+.calculator-equals { background-color: #6a2ddc; }
 
 
 
