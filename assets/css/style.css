@@ -154,7 +154,7 @@ footer p + p { float: right; }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
-.calculator-clear { background-color: rgb(138, 85, 242)) }
+.calculator-clear { background-color: rgba(137, 85, 242, 0.746))) }
 
 /* styling for the calculator equals button */
 .calculator-equals { background-color: #996fe7; }
