@@ -134,7 +134,7 @@ courses: { compsci: {week: 5} }
           case "/":
               result = first / second;
               break;
-          case "-":
+          case "+/-":
               result = - first;
               break;
           default: 
