@@ -33,6 +33,8 @@ courses: { compsci: {week: 5} }
       <!--result-->
       <div class="calculator-output" id="output">0</div>
       <!--row 1-->
+      <div class="calculator-clear">A/C</div>
+      <div class="calculator-operation">+/-</div>
       <div class="calculator-number">1</div>
       <div class="calculator-number">2</div>
       <div class="calculator-number">3</div>
@@ -131,6 +133,9 @@ courses: { compsci: {week: 5} }
               break;
           case "/":
               result = first / second;
+              break;
+          case "-":
+              result = - first;
               break;
           default: 
               break;
