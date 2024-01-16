@@ -144,6 +144,9 @@ courses: { compsci: {week: 5} }
           case "π":
               result = first * 3.141592653589793;
               break;
+          case "(-)":
+              result = "-" first * + - / second;
+              break;
           default: 
               break;
       }
