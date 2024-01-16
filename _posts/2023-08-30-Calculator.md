@@ -54,6 +54,7 @@ courses: { compsci: {week: 5} }
       <div class="calculator-operation">/</div>
       <!--row 5-->
       <div class="calculator-operation">^2</div>
+      <div class="calculator-operation">π</div>
       <div class="calculator-equals">=</div>
       <div class="calculator-clear">A/C</div>
   </div>
@@ -138,6 +139,9 @@ courses: { compsci: {week: 5} }
               break;
           case "^2":
               result = first * first;
+              break;
+          case "π":
+              result = first * 3.14;
               break;
           default: 
               break;
