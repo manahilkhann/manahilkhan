@@ -54,7 +54,7 @@ courses: { compsci: {week: 5} }
       <div class="calculator-operation">/</div>
       <!--row 5-->
       <div class="calculator-operation">x²</div>
-      <div class="calculator-operation">x^y</div>
+      <div class="calculator-operation">1/x</div>
       <div class="calculator-operation">π</div>
       <div class="calculator-operation">%</div>
       <div class="calculator-equals">=</div>
@@ -148,8 +148,8 @@ courses: { compsci: {week: 5} }
           case "%":
               result = first * 0.01;
               break;
-          case "x^y":
-              result = first^second;
+          case "1/x":
+              result = 1 / first;
               break;
           default: 
               break;
