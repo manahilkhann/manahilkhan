@@ -53,7 +53,8 @@ courses: { compsci: {week: 5} }
       <div class="calculator-operation">*</div>
       <div class="calculator-operation">/</div>
       <!--row 5-->
-      <div class="calculator-operation">^2</div>
+      <div class="calculator-operation">x²</div>
+      <div class="calculator-operation">x^y</div>
       <div class="calculator-operation">π</div>
       <div class="calculator-operation">%</div>
       <div class="calculator-equals">=</div>
@@ -138,7 +139,7 @@ courses: { compsci: {week: 5} }
           case "/":
               result = first / second;
               break;
-          case "^2":
+          case "x²":
               result = first * first;
               break;
           case "π":
@@ -146,6 +147,9 @@ courses: { compsci: {week: 5} }
               break;
           case "%":
               result = first * 0.01;
+              break;
+          case "x^y":
+              result = first ^ second;
               break;
           default: 
               break;
