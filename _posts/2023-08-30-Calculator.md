@@ -149,7 +149,7 @@ courses: { compsci: {week: 5} }
               result = first * 0.01;
               break;
           case "x^y":
-              result = first ^ second;
+              result = first^second;
               break;
           default: 
               break;
