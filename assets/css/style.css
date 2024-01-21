@@ -67,14 +67,14 @@ p { margin: 0 0 20px; padding: 0; }
 
 strong { color: #222; font-weight: 700; }
 
-header { border-radius: 8px 8px 0 0; background: rgb(168, 102, 146), 160, 255); background: linear-gradient(#fcddf7, #fac6f6); position: relative; padding: 15px 20px; border-bottom: 1px solid #e1b2dc; }
-header h1 { margin: 0; padding: 0; font-: 24px; line-height: 1.2; color: rgb(190, 101, 161)153, 0, 92); text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0; }
+header { border-radius: 8px 8px 0 0; background: rgb(168, 102, 146), 160, 255; background: linear-gradient(#fcddf7, #fac6f6); position: relative; padding: 15px 20px; border-bottom: 1px solid #e1b2dc; }
+header h1 { margin: 0; padding: 0; font-size: 24px; line-height: 1.2; color: rgb(190, 101, 161)153, 0, 92; text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0; }
 header.without-description h1 { margin: 10px 0; }
-header p { margin: 0; color: rgb(162, 106, 152), 135, 162); width: 300px; font-size: 13px; }
+header p { margin: 0; color: rgb(162, 106, 152), 135, 162; width: 300px; font-size: 13px; }
 header p.view { display: none; font-weight: 700; text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0; -webkit-font-smoothing: antialiased; }
-header p.view a { color: rgb(136, 60, 103)4, 0, 116); }
+header p.view a { color: rgb(136, 60, 103)4, 0, 116; }
 header p.view small { font-weight: 400; }
-header ul { margin: 0; padding: 0; list-style: none; position: absolute; z-index: 1; right: 20px; top: 20px; height: 38px; padding: 1px 0; background: rgb(170, 97, 170) 104, 150); background: linear-gradient(rgb(251, 119, 222), #cd37ad); border-radius: 5px; box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0; width: auto; }
+header ul { margin: 0; padding: 0; list-style: none; position: absolute; z-index: 1; right: 20px; top: 20px; height: 38px; padding: 1px 0; background: rgb(170, 97, 170) 104, 150; background: linear-gradient(rgb(251, 119, 222), #cd37ad); border-radius: 5px; box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0; width: auto; }
 header ul:before { content: ''; position: absolute; z-index: -1; left: -5px; top: -4px; right: -5px; bottom: -6px; background: rgba(0, 0, 0, 0.1); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0; }
 header ul li { width: 79px; float: left; border-right: 1px solid rgb(161, 78, 147); height: 38px; }
 header ul li.single { border: none; }
@@ -154,7 +154,7 @@ footer p + p { float: right; }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
-.calculator-clear { background-color: rgb(195, 142, 245)
+.calculator-clear { background-color: rgb(195, 142, 245) }
 
 /* styling for the calculator equals button */
 .calculator-equals { background-color: #996fe7; }
